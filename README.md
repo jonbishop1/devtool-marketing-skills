@@ -14,6 +14,8 @@ This collection has its own skill names, product-specific guidance, and examples
 
 Clone this repository and copy the desired `.agents/skills/<name>/` folders into the skill location documented by your Agent Skills-compatible host. Keep each folder's references and assets. Each skill is standalone; shared context is optional. Avoid installing duplicate copies through several discovery paths.
 
+For Codex, copy the desired skill folders with their references/assets into your project's `.agents/skills/`, then invoke `$devtool-copywriting` or another skill by name. See the [Codex evaluation notes](evals/README.md#codex-follow-up) for tested scope and limits.
+
 For Claude Code:
 
 ```text
