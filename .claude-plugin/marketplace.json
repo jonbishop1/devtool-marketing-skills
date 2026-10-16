@@ -1,0 +1,15 @@
+{
+  "name": "jon-bishop-devtool",
+  "description": "Developer-tool marketing skills by Jon Bishop.",
+  "owner": {
+    "name": "Jon Bishop",
+    "url": "https://jonbishop.co"
+  },
+  "plugins": [
+    {
+      "name": "devtool-marketing-skills",
+      "source": "./",
+      "description": "25 open-source marketing skills for developer tools: research, content, acquisition, technical evaluation, activation, proof, pricing, and sales."
+    }
+  ]
+}
