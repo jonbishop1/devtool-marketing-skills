@@ -24,9 +24,9 @@ Check stable docs, typed inputs and outputs, SDK/CLI installability, credential 
 | Meaningful result and verification | |
 | Unknowns, failure, and stop condition | |
 
-## Worked application
+## Application brief
 
-For this scenario, apply the task-specific method above and deliver: A task-scoped evidence matrix, a clearly bounded readiness finding, reproducible test notes if performed, and a ranked remediation list.
+Deliver: A task-scoped evidence matrix, a clearly bounded readiness finding, reproducible test notes if performed, and a ranked remediation list.
 
 Do not assume missing capabilities or report proposed tests as completed. A useful answer identifies what is known, finishes the requested artifact within that scope, and names the next bounded verification when needed.
 

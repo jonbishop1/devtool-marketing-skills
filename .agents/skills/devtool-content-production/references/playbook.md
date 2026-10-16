@@ -24,9 +24,9 @@ Use concrete inputs and outputs, a runnable path, failure cases, and links to su
 | Meaningful result and verification | |
 | Unknowns, failure, and stop condition | |
 
-## Worked application
+## Application brief
 
-For this scenario, apply the task-specific method above and deliver: A finished draft, source and verification notes, any unresolved publication blockers, and an explicit next step appropriate to the reader. Keep internal evidence notes out of public copy unless relevant.
+Deliver: A finished draft, source and verification notes, any unresolved publication blockers, and an explicit next step appropriate to the reader. Keep internal evidence notes out of public copy unless relevant.
 
 Do not assume missing capabilities or report proposed tests as completed. A useful answer identifies what is known, finishes the requested artifact within that scope, and names the next bounded verification when needed.
 

@@ -322,6 +322,70 @@
     ]
   },
   {
+    "id": "regression-holdout-01",
+    "product_scope": "devtool",
+    "expected_skills": [
+      "devtool-copywriting"
+    ],
+    "prompt": "A fictional tool called FrameDock is a local fixture runner. It accepts sanitized fixtures and prints a response. No other behavior is specified. Write a headline, two sentences, and a CTA, under 100 words. Use supplied facts only.\n\nDo not browse, change files, contact anyone, or take external actions.",
+    "must_include": [
+      "Finish the requested artifact within its length and scope",
+      "Preserve supplied evidence status and separate facts from proposals"
+    ],
+    "must_avoid": [
+      "Invented product behavior, proof, current prices, or identity",
+      "Inferring unsupported ordered events or mixing separate products"
+    ]
+  },
+  {
+    "id": "regression-holdout-02",
+    "product_scope": "devtool",
+    "expected_skills": [
+      "devtool-pricing"
+    ],
+    "prompt": "A fictional paid local static-analysis CLI has individual licenses today. Five engineers use it; two build identities run it 900,000 times monthly. License treatment of automation is undecided. Compare a team license with human-seat pricing and request pricing. Propose packaging and the next research, under 260 words. No hosted product is planned. Prices and vendor support costs are unknown.\n\nDo not browse, change files, contact anyone, or take external actions.",
+    "must_include": [
+      "Finish the requested artifact within its length and scope",
+      "Preserve supplied evidence status and separate facts from proposals"
+    ],
+    "must_avoid": [
+      "Invented product behavior, proof, current prices, or identity",
+      "Inferring unsupported ordered events or mixing separate products"
+    ]
+  },
+  {
+    "id": "regression-holdout-05",
+    "product_scope": "devtool",
+    "expected_skills": [
+      "devtool-data-analysis"
+    ],
+    "prompt": "Report activation for 60 complete-window projects: 18 have own-project success; 12 other projects have sample-only success; 6 additional projects are too recent and ineligible. No event-level history is available. Explain what further journey metrics can be calculated, under 180 words.\n\nDo not browse, change files, contact anyone, or take external actions.",
+    "must_include": [
+      "Finish the requested artifact within its length and scope",
+      "Preserve supplied evidence status and separate facts from proposals"
+    ],
+    "must_avoid": [
+      "Invented product behavior, proof, current prices, or identity",
+      "Inferring unsupported ordered events or mixing separate products"
+    ]
+  },
+  {
+    "id": "regression-holdout-08",
+    "product_scope": "devtool",
+    "expected_skills": [
+      "devtool-product-launches"
+    ],
+    "prompt": "An SDK install command is documented. The demo has never been run from a clean environment. Support ownership is proposed but not assigned. Write a launch-readiness recommendation and a usable scoped announcement draft, under 220 words. Do not execute or publish.\n\nDo not browse, change files, contact anyone, or take external actions.",
+    "must_include": [
+      "Finish the requested artifact within its length and scope",
+      "Preserve supplied evidence status and separate facts from proposals"
+    ],
+    "must_avoid": [
+      "Invented product behavior, proof, current prices, or identity",
+      "Inferring unsupported ordered events or mixing separate products"
+    ]
+  },
+  {
     "id": "devtool-devtool-agent-readiness",
     "expected_skills": [
       "devtool-agent-readiness"
@@ -658,7 +722,7 @@
     ],
     "prompt": "For this fictional product, complete the Pricing task. TraceNest is a fictional local HTTP replay tool. An engineer can replay a sanitized fixture locally, but service integration needs a platform owner. Sample replay is not proof of recurring project value. Do not invent hosted behavior, speed improvements, or customer results. Work with available facts and mark evidence gaps.",
     "must_include": [
-      "Compare value alignment for individuals, teams, service accounts, and heavy CI automation. Assess whether per-seat or per-request billing discourages integration or creates surprise usage. Separate open-source license terms from managed-service pricing.",
+      "Select the developer workload only when a brief also labels a separate data workload. Do not price unrelated source-row activity as CLI usage. Compare human seats, automation and team licensing; local software can be commercial without a hosted service.",
       "Concrete deliverable with evidence limits"
     ],
     "must_avoid": [

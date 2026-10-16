@@ -1,5 +1,7 @@
 # Developer-tool marketing skills
 
+> Behavioral repair candidate: output-quality regressions remain. See [evaluation status](evals/README.md). Hold this branch for validation before release.
+
 25 open-source [Agent Skills](https://agentskills.io/specification) by [Jon Bishop](https://jonbishop.co) for marketing developer tools. Each skill includes a bounded workflow, domain-specific decisions, an evidence standard, a deliverable, and a linked playbook. There are no required paid services or runtime hooks.
 
 ## Built for this product type

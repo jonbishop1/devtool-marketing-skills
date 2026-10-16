@@ -24,9 +24,9 @@ Pair discoverable technical content or ecosystem distribution with a working REA
 | Meaningful result and verification | |
 | Unknowns, failure, and stop condition | |
 
-## Worked application
+## Completed example
 
-For this scenario, apply the task-specific method above and deliver: A decision summary, sequenced plan, owner and resource table, measurement definitions, and an experiment backlog with explicit tradeoffs.
+Five marketing hours/week; 6/10 selected support notes mention a missing local-service prerequisite; visits increasing. Working hypothesis: prerequisite discovery hurts evaluation. Week-one allocation: 2h draft a clear service prerequisite and proposed success check in a new evaluation asset; 1h engineering review; 1h observe an authorized sample attempt if feasible; 1h summarize failures and decide next step. Proposed roles: marketer and technical reviewer. If setup succeeds but users do not reach useful output, investigate the next step; if observation cannot happen, ship the reviewed draft within scope and mark diagnosis unresolved. No population failure rate or traffic-capacity claim follows from these notes.
 
 Do not assume missing capabilities or report proposed tests as completed. A useful answer identifies what is known, finishes the requested artifact within that scope, and names the next bounded verification when needed.
 

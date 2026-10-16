@@ -24,9 +24,9 @@ Use a task demo that an engineer can reproduce after the event. Qualify supporte
 | Meaningful result and verification | |
 | Unknowns, failure, and stop condition | |
 
-## Worked application
+## Completed example
 
-For this scenario, apply the task-specific method above and deliver: A before/during/after plan, demo brief, conversation prompts, capture schema, follow-up drafts, ownership, and measurement definitions.
+Live demo depends on a local service and documented runtime. Test the full path before the event. Fallback: a labelled recording plus fixture/expected-response worksheet if network or installation fails. This is a recorded demonstration, not a claim that the product works offline. Capture an agreed evaluation task and contact preference, not inferred consent from a scan.
 
 Do not assume missing capabilities or report proposed tests as completed. A useful answer identifies what is known, finishes the requested artifact within that scope, and names the next bounded verification when needed.
 

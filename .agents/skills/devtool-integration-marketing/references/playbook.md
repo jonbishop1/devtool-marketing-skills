@@ -24,9 +24,9 @@ Show where the SDK, CLI, plugin, CI action, or API fits into a real developer wo
 | Meaningful result and verification | |
 | Unknowns, failure, and stop condition | |
 
-## Worked application
+## Application brief
 
-For this scenario, apply the task-specific method above and deliver: A verified workflow brief, integration page or listing, example and evidence notes, support boundary, distribution drafts, and maintenance plan.
+Deliver: A verified workflow brief, integration page or listing, example and evidence notes, support boundary, distribution drafts, and maintenance plan.
 
 Do not assume missing capabilities or report proposed tests as completed. A useful answer identifies what is known, finishes the requested artifact within that scope, and names the next bounded verification when needed.
 

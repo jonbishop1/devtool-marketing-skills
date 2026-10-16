@@ -24,9 +24,9 @@ Make the working example, docs, repository where applicable, integration require
 | Meaningful result and verification | |
 | Unknowns, failure, and stop condition | |
 
-## Worked application
+## Application brief
 
-For this scenario, apply the task-specific method above and deliver: An annotated page outline or implementation, section-level proof requirements, CTA behavior, and a measurement plan connecting the page to evaluation quality.
+Deliver: An annotated page outline or implementation, section-level proof requirements, CTA behavior, and a measurement plan connecting the page to evaluation quality.
 
 Do not assume missing capabilities or report proposed tests as completed. A useful answer identifies what is known, finishes the requested artifact within that scope, and names the next bounded verification when needed.
 
