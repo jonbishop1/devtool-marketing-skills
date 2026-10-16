@@ -24,9 +24,9 @@ Cover real stack combinations, examples, debugging, migration, and production tr
 | Meaningful result and verification | |
 | Unknowns, failure, and stop condition | |
 
-## Worked application
+## Application brief
 
-For this scenario, apply the task-specific method above and deliver: A prioritized portfolio, cluster map, production briefs, distribution plan, and maintenance responsibilities. Explain why the first items deserve the available effort.
+Deliver: A prioritized portfolio, cluster map, production briefs, distribution plan, and maintenance responsibilities. Explain why the first items deserve the available effort.
 
 Do not assume missing capabilities or report proposed tests as completed. A useful answer identifies what is known, finishes the requested artifact within that scope, and names the next bounded verification when needed.
 

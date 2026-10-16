@@ -24,9 +24,9 @@ Include local and hosted modes, integration effort, SDK or language support, mai
 | Meaningful result and verification | |
 | Unknowns, failure, and stop condition | |
 
-## Worked application
+## Application brief
 
-For this scenario, apply the task-specific method above and deliver: A sourced comparison matrix, a best-fit and poor-fit summary, a battlecard, and explicit evidence gaps. Keep private win/loss details out of public copy.
+Deliver: A sourced comparison matrix, a best-fit and poor-fit summary, a battlecard, and explicit evidence gaps. Keep private win/loss details out of public copy.
 
 Do not assume missing capabilities or report proposed tests as completed. A useful answer identifies what is known, finishes the requested artifact within that scope, and names the next bounded verification when needed.
 

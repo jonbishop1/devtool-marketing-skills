@@ -24,9 +24,9 @@ Work with stack-specific communities, maintainers, package ecosystems, examples,
 | Meaningful result and verification | |
 | Unknowns, failure, and stop condition | |
 
-## Worked application
+## Completed example
 
-For this scenario, apply the task-specific method above and deliver: A channel-fit map, useful contribution drafts, affiliation and rule checks, reply ownership, and a proportionate measurement plan.
+Draft reply: "To distinguish a replay-tool problem from a service problem, first confirm that the local service is running, then compare its response to a controlled fixture's expected status/body. Keep credentials out of the fixture. [Affiliation: add your actual relationship to the product before posting.] If useful, I can share the fixture structure." This supplies a useful method without inventing maintainer identity or execution evidence. No post was sent.
 
 Do not assume missing capabilities or report proposed tests as completed. A useful answer identifies what is known, finishes the requested artifact within that scope, and names the next bounded verification when needed.
 

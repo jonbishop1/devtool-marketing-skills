@@ -24,9 +24,9 @@ A faster local example does not establish whole-team productivity. Measure task 
 | Meaningful result and verification | |
 | Unknowns, failure, and stop condition | |
 
-## Worked application
+## Application brief
 
-For this scenario, apply the task-specific method above and deliver: A claim ledger, evidence protocol or results, reproduction instructions, publishable claim language, limitations, and unresolved proof gaps.
+Deliver: A claim ledger, evidence protocol or results, reproduction instructions, publishable claim language, limitations, and unresolved proof gaps.
 
 Do not assume missing capabilities or report proposed tests as completed. A useful answer identifies what is known, finishes the requested artifact within that scope, and names the next bounded verification when needed.
 

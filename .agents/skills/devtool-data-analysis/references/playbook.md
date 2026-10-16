@@ -24,9 +24,9 @@ Package downloads, repository stars, pageviews, and API calls have different mea
 | Meaningful result and verification | |
 | Unknowns, failure, and stop condition | |
 
-## Worked application
+## Completed example
 
-For this scenario, apply the task-specific method above and deliver: Metric definitions, reproducible analysis or query, concise findings, uncertainty and data-quality notes, and a recommended decision or next measurement.
+40 eligible workspaces with complete windows; 12 own-project successes; 8 other sample-only successes; 10 additional workspaces too new. Requested activation: 12/40 = 30%; exclude the 10 incomplete windows. Remaining 20 eligible workspaces have no listed success event. Sample-to-own-project conversion is unavailable without workspace-linked ordered events; 12/(12+8) is not that conversion.
 
 Do not assume missing capabilities or report proposed tests as completed. A useful answer identifies what is known, finishes the requested artifact within that scope, and names the next bounded verification when needed.
 

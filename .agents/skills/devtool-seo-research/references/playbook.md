@@ -24,9 +24,9 @@ Separate language learning, jobs, package troubleshooting, tool selection, and p
 | Meaningful result and verification | |
 | Unknowns, failure, and stop condition | |
 
-## Worked application
+## Application brief
 
-For this scenario, apply the task-specific method above and deliver: A sourced opportunity table with query, task, intent, evidence or estimate, product fit, proposed page, competing results, effort, and next action.
+Deliver: A sourced opportunity table with query, task, intent, evidence or estimate, product fit, proposed page, competing results, effort, and next action.
 
 Do not assume missing capabilities or report proposed tests as completed. A useful answer identifies what is known, finishes the requested artifact within that scope, and names the next bounded verification when needed.
 

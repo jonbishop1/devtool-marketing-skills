@@ -1,5 +1,7 @@
 # Developer-tool marketing skills
 
+> Behavioral repair candidate: output-quality regressions remain. See [evaluation status](evals/README.md). Hold this branch for validation before release.
+
 25 open-source [Agent Skills](https://agentskills.io/specification) by [Jon Bishop](https://jonbishop.co) for marketing developer tools. Each skill includes a bounded workflow, domain-specific decisions, an evidence standard, a deliverable, and a linked playbook. There are no required paid services or runtime hooks.
 
 ## Built for this product type
@@ -11,6 +13,8 @@ This collection has its own skill names, product-specific guidance, and examples
 ## Install
 
 Clone this repository and copy the desired `.agents/skills/<name>/` folders into the skill location documented by your Agent Skills-compatible host. Keep each folder's references and assets. Each skill is standalone; shared context is optional. Avoid installing duplicate copies through several discovery paths.
+
+For Codex, copy the desired skill folders with their references/assets into your project's `.agents/skills/`, then invoke `$devtool-copywriting` or another skill by name. See the [Codex evaluation notes](evals/README.md#codex-follow-up) for tested scope and limits.
 
 For Claude Code:
 

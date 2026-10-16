@@ -24,9 +24,13 @@ Prefer task and environment specificity over “developer-first” or “10x pro
 | Meaningful result and verification | |
 | Unknowns, failure, and stop condition | |
 
-## Worked application
+## Completed example
 
-For this scenario, apply the task-specific method above and deliver: Finished copy or a prioritized critique, supporting evidence for material claims, and limited alternatives with a rationale.
+Facts: a local HTTP replay CLI sends an already-sanitized fixture to a running local service and prints its response. Node 22, macOS/Linux. Account and telemetry behavior unspecified.
+
+Finished copy: **Replay a fixture against your local service.** Send an already-sanitized HTTP fixture to a running local service and inspect its response. Use the CLI with Node 22 on macOS or Linux. **CTA: Explore a sample replay** (proposed link; confirm destination).
+
+Why: the mechanism carries the benefit. "No account", "offline", "nothing leaves your machine", and "returns a recorded response" do not follow from these facts.
 
 Do not assume missing capabilities or report proposed tests as completed. A useful answer identifies what is known, finishes the requested artifact within that scope, and names the next bounded verification when needed.
 

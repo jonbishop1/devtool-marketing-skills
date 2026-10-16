@@ -24,9 +24,9 @@ Include installation, authentication only if needed, a realistic input, useful o
 | Meaningful result and verification | |
 | Unknowns, failure, and stop condition | |
 
-## Worked application
+## Completed example
 
-For this scenario, apply the task-specific method above and deliver: A runnable guide, expected outputs and success checks, failure recovery, cleanup, and a precise tested-versus-untested record.
+Plan only; CLI syntax unavailable. Proposed fixture targets a controlled local test service returning status 200 and JSON {"id":7,"state":"ready"}. Start the service with a documented harness if available; otherwise leave its setup syntax explicitly pending. Invoke [DOCUMENTED REPLAY COMMAND] with that fixture. Assert the service received the intended request and compare the returned status/body to the oracle above. This tests forwarding and response reporting, not canned-response playback. No run is claimed; verify CLI output mapping and prerequisites before publishing commands. Stop on mismatch, inspect request/service logs; do not claim offline or account-free operation.
 
 Do not assume missing capabilities or report proposed tests as completed. A useful answer identifies what is known, finishes the requested artifact within that scope, and names the next bounded verification when needed.
 

@@ -24,9 +24,9 @@ An engineer may like the tool but fear owning another dependency. Address integr
 | Meaningful result and verification | |
 | Unknowns, failure, and stop condition | |
 
-## Worked application
+## Application brief
 
-For this scenario, apply the task-specific method above and deliver: A barrier map, evidence-versus-hypothesis notes, a concrete intervention, and the next behavioral check.
+Deliver: A barrier map, evidence-versus-hypothesis notes, a concrete intervention, and the next behavioral check.
 
 Do not assume missing capabilities or report proposed tests as completed. A useful answer identifies what is known, finishes the requested artifact within that scope, and names the next bounded verification when needed.
 

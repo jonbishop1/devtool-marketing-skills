@@ -24,9 +24,9 @@ Include installation, environment compatibility, credentials, first successful t
 | Meaningful result and verification | |
 | Unknowns, failure, and stop condition | |
 
-## Worked application
+## Application brief
 
-For this scenario, apply the task-specific method above and deliver: A journey map, first-value and durable-adoption definitions, prioritized interventions, failure recovery, lifecycle copy if relevant, and an event plan.
+Deliver: A journey map, first-value and durable-adoption definitions, prioritized interventions, failure recovery, lifecycle copy if relevant, and an event plan.
 
 Do not assume missing capabilities or report proposed tests as completed. A useful answer identifies what is known, finishes the requested artifact within that scope, and names the next bounded verification when needed.
 

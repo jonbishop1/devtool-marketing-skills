@@ -24,9 +24,9 @@ Capture supported environments, installation path, local versus hosted behavior,
 | Meaningful result and verification | |
 | Unknowns, failure, and stop condition | |
 
-## Worked application
+## Application brief
 
-For this scenario, apply the task-specific method above and deliver: A compact brief with facts, evidence links, open questions, assumptions, the current goal, meaningful success, constraints, and the next decision. Add only material changes to an existing brief.
+Deliver: A compact brief with facts, evidence links, open questions, assumptions, the current goal, meaningful success, constraints, and the next decision. Add only material changes to an existing brief.
 
 Do not assume missing capabilities or report proposed tests as completed. A useful answer identifies what is known, finishes the requested artifact within that scope, and names the next bounded verification when needed.
 

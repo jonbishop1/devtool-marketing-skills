@@ -24,9 +24,9 @@ Show a real task or input/output change. Avoid claiming that broad interest targ
 | Meaningful result and verification | |
 | Unknowns, failure, and stop condition | |
 
-## Worked application
+## Application brief
 
-For this scenario, apply the task-specific method above and deliver: Channel-fit judgment, creative briefs and copy, offer and landing path, budget assumptions, qualification definitions, and measurement limitations.
+Deliver: Channel-fit judgment, creative briefs and copy, offer and landing path, budget assumptions, qualification definitions, and measurement limitations.
 
 Do not assume missing capabilities or report proposed tests as completed. A useful answer identifies what is known, finishes the requested artifact within that scope, and names the next bounded verification when needed.
 

@@ -24,9 +24,9 @@ Inspect versioned docs, repository-to-site routes, package and framework pages, 
 | Meaningful result and verification | |
 | Unknowns, failure, and stop condition | |
 
-## Worked application
+## Application brief
 
-For this scenario, apply the task-specific method above and deliver: A prioritized issue register with affected URL, observed evidence, severity rationale, proposed fix, owner or dependency, and a reproducible verification step.
+Deliver: A prioritized issue register with affected URL, observed evidence, severity rationale, proposed fix, owner or dependency, and a reproducible verification step.
 
 Do not assume missing capabilities or report proposed tests as completed. A useful answer identifies what is known, finishes the requested artifact within that scope, and names the next bounded verification when needed.
 

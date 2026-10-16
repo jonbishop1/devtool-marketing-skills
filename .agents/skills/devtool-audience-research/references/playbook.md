@@ -24,9 +24,9 @@ Segment by workflow, stack, deployment policy, and team ownership. Distinguish s
 | Meaningful result and verification | |
 | Unknowns, failure, and stop condition | |
 
-## Worked application
+## Application brief
 
-For this scenario, apply the task-specific method above and deliver: An evidence-backed segment table, role map, ranked adoption barriers, audience language with sources, and a practical validation plan. Include what would falsify the recommended segment.
+Deliver: An evidence-backed segment table, role map, ranked adoption barriers, audience language with sources, and a practical validation plan. Include what would falsify the recommended segment.
 
 Do not assume missing capabilities or report proposed tests as completed. A useful answer identifies what is known, finishes the requested artifact within that scope, and names the next bounded verification when needed.
 
